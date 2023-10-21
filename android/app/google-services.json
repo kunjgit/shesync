@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "622195663271",
+    "project_id": "shesync-d5ee0",
+    "storage_bucket": "shesync-d5ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622195663271:android:c450f7dae82e4bd0259682",
+        "android_client_info": {
+          "package_name": "com.example.shesync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622195663271-4qi4te194b4qo0u245tm2dor1vruk9pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOcn3ou7xj5D4T2S2kZG1e_hg6jL41b2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622195663271-4qi4te194b4qo0u245tm2dor1vruk9pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
